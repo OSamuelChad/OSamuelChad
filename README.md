@@ -1,13 +1,7 @@
 ## Hi, I'm Samuel Chad!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,ts,django,spring,angular,figma,js,html,css,tailwind,docker,postgres&theme=dark" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSamuelChad&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=py,java,ts,cpp,django,spring,angular,react,figma,js,html,css,tailwind,docker,postgres&theme=dark" />
 </p>
 
 ## 
