@@ -1,7 +1,7 @@
 ## Hi, I'm Samuel Chad!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,ts,cpp,django,spring,angular,react,figma,js,html,css,tailwind,docker,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,py,java,ts,cpp,django,spring,angular,react,figma,js,html,css,tailwind,docker,postgres&theme=dark" />
 </p>
 
 ## 
